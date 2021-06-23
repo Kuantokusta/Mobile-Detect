@@ -1,3 +1,6 @@
+# !! MOVED TO GITLAB http://git.kuantokusta.pt/ !!
+* RUN ON REPO FOLDER: git remote set-url origin {REPOSITORY_GITLAB_URL}
+
 ![Mobile Detect](http://demo.mobiledetect.net/logo-github.png)
 
 > Motto: "Every business should have a detection script to detect mobile readers."
